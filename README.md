@@ -14,6 +14,7 @@ This cheatsheet is specifically *Markdown Here's* version of Github-flavored Mar
 [Horizontal Rule](#hr)  
 [Line Breaks](#lines)  
 
+<a name="headers"/>
 ## Headers
 
 ```no-highlight
@@ -48,6 +49,7 @@ Alt-H1
 Alt-H2
 ------
 
+<a name="emphasis"/>
 ## Emphasis
 
 ```no-highlight
@@ -64,6 +66,7 @@ Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
 Combined emphasis with **asterisks and _underscores_**.
 
+<a name="lists"/>
 ## Lists
 
 ```no-highlight
@@ -94,7 +97,7 @@ Combined emphasis with **asterisks and _underscores_**.
 - Or minuses
 + Or pluses
 
-
+<a name="links"/>
 ## Links
 
 There are two ways to create links.
@@ -129,7 +132,7 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 
-
+<a name="images"/>
 ## Images
 
 ```no-highlight
@@ -154,7 +157,7 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-
+<a name="code"/>
 ## Code and Syntax Highlighting
 
 Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and *Markdown Here* -- support syntax highlighting. *Markdown Here* supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).
@@ -203,7 +206,7 @@ But let's throw in a <b>tag</b>.
 
 Again, to see what languages are available for highlighting, and how to write those language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).
 
-
+<a name="blockquotes"/>
 ## Blockquotes
 
 ```no-highlight
@@ -222,7 +225,7 @@ Quote break.
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
 
-
+<a name="html"/>
 ## Inline HTML
 
 You can also use raw HTML in your Markdown, and it'll mostly work pretty well. Here are a couple of common examples:
@@ -289,7 +292,7 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well. H
 
 Github-flavored Markdown supports a special table syntax, but *Markdown Here* does not support it yet. [There's an issue for it.](https://github.com/adam-p/markdown-here/issues/13)
 
-
+<a name="hr"/>
 ## Horizontal Rule
 
 ```
@@ -322,7 +325,7 @@ ___
 
 Underscores
 
-
+<a name="lines"/>
 ## Line Breaks
 
 My basic recommendation for learning how line breaks work is to experiment and discover -- hit &lt;Enter&gt; once, then hit it twice, see what happens. You'll soon learn to get what you want. "Markdown Toggle" is your friend. 
