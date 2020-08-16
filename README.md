@@ -8,7 +8,7 @@ This cheatsheet is specifically *Markdown Here's* version of Github-flavored Mar
 [Lists](#lists)  
 [Links](#links)  
 [Images](#images)  
-[Code and Syntax Highlighting](#code)  
+[Code and Syntax Highlighting](#code-and-syntax-highlighting)  
 [Blockquotes](#blockquotes)  
 [Inline HTML](#inline-html)  
 [Horizontal Rule](#horizontal-rule)  
