@@ -10,8 +10,8 @@ This cheatsheet is specifically *Markdown Here's* version of Github-flavored Mar
 [Images](#images)  
 [Code and Syntax Highlighting](#code)  
 [Blockquotes](#blockquotes)  
-[Inline HTML](#html)  
-[Horizontal Rule](#hr)  
+[Inline HTML](#inline-html)  
+[Horizontal Rule](#horizontal-rule)  
 [Line Breaks](#lines)  
 
 <a name="headers"/>
