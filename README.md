@@ -12,7 +12,7 @@ This cheatsheet is specifically *Markdown Here's* version of Github-flavored Mar
 [Blockquotes](#blockquotes)  
 [Inline HTML](#inline-html)  
 [Horizontal Rule](#horizontal-rule)  
-[Line Breaks](#lines-breaks)  
+[Line Breaks](#line-breaks)  
 
 ## Headers
 
